@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: blue;
+}
+nav {
+    background-color: purple;
+}
+aside {
+    background-color: green;
+}
+section {
+    background-color: orange;
+}
+article {
+    background-color: yellow;
+}
+footer {
+    background-color: red;
+}
